@@ -1,6 +1,38 @@
-VERSION             "1"
-CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
-FILENOTES           ""
+REFERENCE           GAME_DEMI_GODMODE_ON
+LANG_SPANISH        "Modo demigod SI"
+--
+REFERENCE           GAME_GODMODE_ON
+LANG_SPANISH        "godmode SI"
+--
+REFERENCE           GAME_NOCLIPON
+LANG_SPANISH        "noclip SI"
+--
+REFERENCE           GAME_NOTARGETON
+LANG_SPANISH        "notarget SI"
+--
+REFERENCE           GAME_UFOON
+LANG_SPANISH        "ufomode SI"
+--
+REFERENCE           MENU_ENABLED_CAPS
+LANG_SPANISH        "SI"
+--
+REFERENCE           MENU_HEALTH_REGEN_TIME_5
+LANG_SPANISH        "SI"
+--
+REFERENCE           MENU_HIT_MARKERS_ENABLED
+LANG_SPANISH        "SI"
+--
+REFERENCE           MENU_ON_CAPS
+LANG_SPANISH        "SI"
+--
+REFERENCE           MENU_STEREO_3D_ON
+LANG_SPANISH        "SI"
+--
+REFERENCE           MENU_VOTE_YES_CAPS
+LANG_SPANISH        "VOTAR SI"
+--
+REFERENCE           MENU_YES_CAPS
+LANG_SPANISH        "SI"
 
 REFERENCE           MENU_PLAYERS_ONLINE
 LANG_SPANISH        "&&1 en liña"
