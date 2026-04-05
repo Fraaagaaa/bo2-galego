@@ -624,7 +624,7 @@ REFERENCE           ZMWEAPON_ALCATRAZ_RIOTSHIELD
 LANG_SPANISH        "Escudo zombi"
 
 REFERENCE           ZMWEAPON_AN94_UPGRADED
-LANG_SPANISH        "Neutralizer 94000 impulsado"
+LANG_SPANISH        "Neutralizador 94000 impulsado"
 
 REFERENCE           ZMWEAPON_BALLISTA_UPGRADED
 LANG_SPANISH        "Arbalesta infusionada"
@@ -654,25 +654,25 @@ REFERENCE           ZMWEAPON_BLUNDERGAT_UPGRADED
 LANG_SPANISH        "El barrendero"
 
 REFERENCE           ZMWEAPON_BOWIE
-LANG_SPANISH        "Cuchillo Bowie"
+LANG_SPANISH        "Coitelo Bowie"
 
 REFERENCE           ZMWEAPON_C96
 LANG_SPANISH        "Mauser C96"
 
 REFERENCE           ZMWEAPON_C96_UPGRADED
-LANG_SPANISH        "BoomHilda"
+LANG_SPANISH        "ZoomHilda"
 
 REFERENCE           ZMWEAPON_DIESELDRONE
 LANG_SPANISH        "Dron Maxis"
 
 REFERENCE           ZMWEAPON_DSR50_UPGRADED
-LANG_SPANISH        "Reactor de especímenes muertos 5000"
+LANG_SPANISH        "Reactor de especímenes mortos 5000"
 
 REFERENCE           ZMWEAPON_EVOSKORPION_UPGRADED
-LANG_SPANISH        "Acechador de la muerte evolucionado"
+LANG_SPANISH        "Axexador da morte evolucionado"
 
 REFERENCE           ZMWEAPON_FIVESEVEN_DW_UPGRADED
-LANG_SPANISH        "Ultra y violeta"
+LANG_SPANISH        "Ultra e violeta"
 
 REFERENCE           ZMWEAPON_FIVESEVEN_UPGRADED
 LANG_SPANISH        "Ultra"
@@ -690,13 +690,13 @@ REFERENCE           ZMWEAPON_JETGUN
 LANG_SPANISH        "Thrustodyne Aeronautics modelo 23"
 
 REFERENCE           ZMWEAPON_JUDGE_UPGRADED
-LANG_SPANISH        "Voz justiciera"
+LANG_SPANISH        "Voz xusticeira"
 
 REFERENCE           ZMWEAPON_KARD_UPGRADED
 LANG_SPANISH        "Perforador atómico kármico 4000"
 
 REFERENCE           ZMWEAPON_KSG_UPGRADED
-LANG_SPANISH        "Creador de niebla"
+LANG_SPANISH        "Creador da néboa"
 
 REFERENCE           ZMWEAPON_LSAT_UPGRADED
 LANG_SPANISH        "FSIRT"
@@ -708,7 +708,7 @@ REFERENCE           ZMWEAPON_MG08
 LANG_SPANISH        "MG08/15"
 
 REFERENCE           ZMWEAPON_MG08_UPGRADED
-LANG_SPANISH        "Colisionador magno"
+LANG_SPANISH        "Colisor magno"
 
 REFERENCE           ZMWEAPON_MINIGUN_UPGRADED
 LANG_SPANISH        "Triturador de carne"
@@ -717,7 +717,7 @@ REFERENCE           ZMWEAPON_MP40
 LANG_SPANISH        "MP40"
 
 REFERENCE           ZMWEAPON_MP40_STALKER
-LANG_SPANISH        "MP-40 con culata ajustable"
+LANG_SPANISH        "MP-40 con culata axustable"
 
 REFERENCE           ZMWEAPON_MP40_STALKER_UPGRADED
 LANG_SPANISH        "Posquemador"
@@ -732,7 +732,7 @@ REFERENCE           ZMWEAPON_MP44_UPGRADED
 LANG_SPANISH        "Spatz-447 +"
 
 REFERENCE           ZMWEAPON_MP44_WALLBUY
-LANG_SPANISH        "Mantén ^3[{+activate}]^7 para comprar STG-44 (coste: &&1)."
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para comprar STG-44 (custo: &&1)."
 
 REFERENCE           ZMWEAPON_PARALYZER
 LANG_SPANISH        "Paralizador"
@@ -747,10 +747,10 @@ REFERENCE           ZMWEAPON_QCW05_UPGRADED
 LANG_SPANISH        "Ráfaga cuádruple cataclísmica Chicom"
 
 REFERENCE           ZMWEAPON_RAYGUN_MARK2
-LANG_SPANISH        "Arma de rayos, Mark 2"
+LANG_SPANISH        "Arma de raios MK 2"
 
 REFERENCE           ZMWEAPON_RAYGUN_MARK2_UPGRADED
-LANG_SPANISH        "Arma de rayos, Mark 2 de Porter"
+LANG_SPANISH        "Arma de raios MK 2 de Porter"
 
 REFERENCE           ZMWEAPON_RIOTSHIELD
 LANG_SPANISH        "Escudo zombi"
@@ -771,10 +771,10 @@ REFERENCE           ZMWEAPON_SARITCH_UPGRADED
 LANG_SPANISH        "SM1L3R"
 
 REFERENCE           ZMWEAPON_SCAR_UPGRADED
-LANG_SPANISH        "Muerte de Agartha"
+LANG_SPANISH        "Morte de Agartha"
 
 REFERENCE           ZMWEAPON_SLIPGUN
-LANG_SPANISH        "Esliquidificador"
+LANG_SPANISH        "Eslicuador"
 
 REFERENCE           ZMWEAPON_SLIPGUN_UPGRADED
 LANG_SPANISH        "3Sl1qu1d1f1ca0r"
@@ -783,19 +783,19 @@ REFERENCE           ZMWEAPON_SRM1216_UPGRADED
 LANG_SPANISH        "Mesmerizador"
 
 REFERENCE           ZMWEAPON_STAFF_AIR
-LANG_SPANISH        "Bastón de viento"
+LANG_SPANISH        "Bastón de vento"
 
 REFERENCE           ZMWEAPON_STAFF_AIR_UPGRADED
 LANG_SPANISH        "Furia de Bóreas"
 
 REFERENCE           ZMWEAPON_STAFF_FIRE
-LANG_SPANISH        "Bastón de fuego"
+LANG_SPANISH        "Bastón de fogo"
 
 REFERENCE           ZMWEAPON_STAFF_FIRE_UPGRADED
-LANG_SPANISH        "Sangre de Kagutsuchi"
+LANG_SPANISH        "Sangue de Kagutsuchi"
 
 REFERENCE           ZMWEAPON_STAFF_LIGHTNING
-LANG_SPANISH        "Bastón de rayos"
+LANG_SPANISH        "Bastón de raios"
 
 REFERENCE           ZMWEAPON_STAFF_LIGHTNING_UPGRADED
 LANG_SPANISH        "Picadura de Kimat"
@@ -804,7 +804,7 @@ REFERENCE           ZMWEAPON_STAFF_REVIVE
 LANG_SPANISH        "Vigor de Sekhmet"
 
 REFERENCE           ZMWEAPON_STAFF_WATER
-LANG_SPANISH        "Bastón de hielo"
+LANG_SPANISH        "Bastón de xeo"
 
 REFERENCE           ZMWEAPON_STAFF_WATER_UPGRADED
 LANG_SPANISH        "Flecha de Ull"
@@ -825,10 +825,10 @@ REFERENCE           ZMWEAPON_THOMPSON_UPGRADED
 LANG_SPANISH        "Tugurio"
 
 REFERENCE           ZMWEAPON_THOMPSON_WALLBUY
-LANG_SPANISH        "Mantén ^3[{+activate}]^7 para comprar M1927 [Coste: &&1]"
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para comprar M1927 [Custo: &&1]"
 
 REFERENCE           ZMWEAPON_TIME_BOMB
-LANG_SPANISH        "Bomba de tiempo"
+LANG_SPANISH        "Bomba de tempo"
 
 REFERENCE           ZMWEAPON_TOMAHAWK
 LANG_SPANISH        "Cobrador infernal"
@@ -855,7 +855,7 @@ REFERENCE           ZOMBIE_AK74U_UPGRADED
 LANG_SPANISH        "AK74 QTDN"
 
 REFERENCE           ZOMBIE_AUG_GL_UPGRADED
-LANG_SPANISH        "AUG con lanzagranadas mejorado"
+LANG_SPANISH        "AUG con lanzagranadas mellorado"
 
 REFERENCE           ZOMBIE_AUG_UPGRADED
 LANG_SPANISH        "AUG-50M3"
@@ -873,7 +873,7 @@ REFERENCE           ZOMBIE_CROSSBOW_UPGRADED
 LANG_SPANISH        "Temible Lawton"
 
 REFERENCE           ZOMBIE_CZ75_DW_UPGRADED
-LANG_SPANISH        "Calamity y Jane"
+LANG_SPANISH        "Calamity e Jane"
 
 REFERENCE           ZOMBIE_CZ75_UPGRADED
 LANG_SPANISH        "Calamity"
