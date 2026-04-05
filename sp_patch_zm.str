@@ -1,3 +1,9 @@
+REFERENCE           MENU_MAX_FPS_DESC
+LANG_SPANISH        "Establece o máximo de fotogramas por segundo. A opción Sincronizar cada fotograma debe estar desactivada para axustar os FPS máx. ^3Calquera ^3valor ^3por ^3riba ^3de ^1250 ^3provocará problemas de movemento, de esprint e parpadeos na mensaxe de Conexión interrompida."
+
+REFERENCE           "SERVER BROWSER"
+LANG_SPANISH        "NAVEGADOR DE SERVIDORES"
+
 REFERENCE           ZMUI_SOLO_PLAY_CAPS
 LANG_SPANISH        "XOGO INDIVIDUAL"
 
