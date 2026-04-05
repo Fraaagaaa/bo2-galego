@@ -924,3 +924,6 @@ LANG_SPANISH        "Los jugadores esperarán para reaparecer en oleada. Si hay 
 
 REFERENCE           CUSTOM_CONT_WITHOUT_SAVE
 LANG_SPANISH        "MODO DE JUEGO SIN GUARDAR"
+
+REFERENCE           CUSTOM_OPT_HEADSHOTS_ONLY
+LANG_SPANISH        "SÓ TIROS Á CABEZA"

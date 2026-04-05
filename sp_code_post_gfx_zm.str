@@ -1,3 +1,9 @@
+REFERENCE           MENU_DIFFICULTY_CAPS
+LANG_SPANISH        "DIFICULTADE"
+
+REFERENCE           MPUI_RULES_DIFFICULTY_CAPS
+LANG_SPANISH        "DIFICULTADE"
+
 REFERENCE           GAME_DEMI_GODMODE_ON
 LANG_SPANISH        "Modo demigod SI"
 --
@@ -1057,3 +1063,6 @@ LANG_SPANISH        "Mantén ^3&&1^7 para manexar as portas."
 
 REFERENCE           MP_OPERATE_DOOR
 LANG_SPANISH        "Mantén ^3&&1^7 para manexar a porta."
+
+REFERENCE           MPUI_RULES_HEADSHOTS_ONLY_CAPS
+LANG_SPANISH        "SÓ TIROS Á CABEZA"

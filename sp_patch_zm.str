@@ -1,6 +1,9 @@
 REFERENCE           CGAME_YES
 LANG_SPANISH        "SI"
 
+REFERENCE           ZMUI_DIFFICULTY_CAPS
+LANG_SPANISH        "DIFICULTADE"
+
 REFERENCE           MENU_MAX_FPS_DESC
 LANG_SPANISH        "Establece o máximo de fotogramas por segundo. A opción Sincronizar cada fotograma debe estar desactivada para axustar os FPS máx. ^3Calquera ^3valor ^3por ^3riba ^3de ^1250 ^3provocará problemas de movemento, de esprint e parpadeos na mensaxe de Conexión interrompida."
 
@@ -898,3 +901,6 @@ LANG_SPANISH        "Lamento"
 
 REFERENCE           ZOMBIE_GAME_OVER
 LANG_SPANISH        "FIN DO XOGO"
+
+REFERENCE           CUSTOM_OPT_HEADSHOTS_ONLY
+LANG_SPANISH        "SÓ TIROS Á CABEZA"
