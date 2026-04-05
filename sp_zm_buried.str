@@ -1,0 +1,119 @@
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZM_BURIED_BOOZE_B
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para bebida alcohólica (custo: &&1)."
+REFERENCE           ZM_BURIED_BOOZE_G
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para bebida alcohólica."
+REFERENCE           ZM_BURIED_BOOZE_GV
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para dar bebida alcohólica."
+REFERENCE           ZM_BURIED_CANDY_B
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para lambetadas (custo: &&1)."
+REFERENCE           ZM_BURIED_CANDY_G
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para as lambetadas."
+REFERENCE           ZM_BURIED_CANDY_GV
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para dar lambetadas."
+REFERENCE           ZM_BURIED_DRAW
+LANG_SPANISH        "Debuxando..."
+
+REFERENCE           ZM_BURIED_EQ_HC
+LANG_SPANISH        "Guillotina"
+
+REFERENCE           ZM_BURIED_EQ_HC_HTS
+LANG_SPANISH        "Preme ^3[{+actionslot 1}]^7 para equiparte coa guillotina."
+REFERENCE           ZM_BURIED_EQ_HC_PHS
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para guillotina."
+REFERENCE           ZM_BURIED_EQ_SP
+LANG_SPANISH        "Vapor arrollador"
+
+REFERENCE           ZM_BURIED_EQ_SP_HTS
+LANG_SPANISH        "Preme ^3[{+actionslot 1}]^7 para equiparte co vapor arrollador."
+REFERENCE           ZM_BURIED_EQ_SP_PHS
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para vapor arrollador."
+REFERENCE           ZM_BURIED_EQ_SW
+LANG_SPANISH        "Resonador subsuperficial"
+
+REFERENCE           ZM_BURIED_EQ_SW_HTS
+LANG_SPANISH        "Preme ^3[{+actionslot 1}]^7 para equiparte co resonador subsuperficial."
+REFERENCE           ZM_BURIED_EQ_SW_PHS
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para resonador subsuperficial."
+REFERENCE           ZM_BURIED_GIVING
+LANG_SPANISH        "Dando..."
+
+REFERENCE           ZM_BURIED_HINT_GHOST_PIANO
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para un consello (custo: &&1)."
+REFERENCE           ZM_BURIED_KEY_G
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para a chave."
+REFERENCE           ZM_BURIED_KEYS_BL
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir."
+REFERENCE           ZM_BURIED_PU_870MCS
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para o bosquexo de Remington 870 MCS."
+REFERENCE           ZM_BURIED_PU_AK74U
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para o bosquexo de AK74u."
+REFERENCE           ZM_BURIED_PU_AN94
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para o bosquexo de AN-94."
+REFERENCE           ZM_BURIED_PU_PDW57
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para o bosquexo de PDW-57."
+REFERENCE           ZM_BURIED_PU_SVU
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para o bosquexo de SVU-AS."
+REFERENCE           ZM_BURIED_PU_TAZER
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para o bosquexo de nocellos galvanizados."
+REFERENCE           ZM_BURIED_SQ_BUT_U
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para usar o timbre."
+REFERENCE           ZM_BURIED_SQ_EGM_BUT
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para usar o botón."
+REFERENCE           ZM_BURIED_SQ_FND
+LANG_SPANISH        "Atopouse un interruptor."
+REFERENCE           ZM_BURIED_SQ_FOUNT_U
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para pedir un desexo."
+REFERENCE           ZM_BURIED_SQ_GL_HB
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para recoller peza."
+REFERENCE           ZM_BURIED_SQ_LANTERN_G
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para recoller o farol."
+REFERENCE           ZM_BURIED_SQ_NFND
+LANG_SPANISH        "Non se atopou nada..."
+
+REFERENCE           ZM_BURIED_SQ_SCH
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para rexistrar o corpo."
+REFERENCE           ZM_BURIED_SQ_SEARCHING
+LANG_SPANISH        "Buscando..."
+
+REFERENCE           ZM_BURIED_SQ_SWIT_U
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para usar a panca."
+REFERENCE           ZM_BURIED_UNLOCKING
+LANG_SPANISH        "Abrindo..."
+
+REFERENCE           ZM_BURIED_WALLBUILD
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para tiza de bosquexo personalizado."
+REFERENCE           ZM_BURIED_WB
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para o bosquexo de &&1."
+REFERENCE           ZM_BURIED_WB_870MCS
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para debuxar o bosquexo de Remington 870 MCS."
+REFERENCE           ZM_BURIED_WB_AK74U
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para debuxar o bosquexo de AK74u."
+REFERENCE           ZM_BURIED_WB_AN94
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para debuxar o bosquexo de AN-94."
+REFERENCE           ZM_BURIED_WB_BERETTA93R
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para debuxar o bosquexo de B23R."
+REFERENCE           ZM_BURIED_WB_BOWIE
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para debuxar o bosquexo de coitelo Bowie."
+REFERENCE           ZM_BURIED_WB_CLAYMORE
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para debuxar o bosquexo de Claymore."
+REFERENCE           ZM_BURIED_WB_M14
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para debuxar o bosquexo de M14."
+REFERENCE           ZM_BURIED_WB_M16
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para debuxar o bosquexo de Colt M16A1."
+REFERENCE           ZM_BURIED_WB_MP5K
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para debuxar o bosquexo de MP5."
+REFERENCE           ZM_BURIED_WB_PDW57
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para debuxar o bosquexo de PDW-57."
+REFERENCE           ZM_BURIED_WB_STICKY
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para debuxar o bosquexo de Semtex."
+REFERENCE           ZM_BURIED_WB_SVU
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para debuxar o bosquexo de SVU-AS."
+REFERENCE           ZM_BURIED_WB_TAZER
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para debuxar o bosquexo de nocellos galvanizados."
+REFERENCE           ZM_BURIED_WB_USRPG
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para debuxar o bosquexo de RPG."
+ENDMARKER

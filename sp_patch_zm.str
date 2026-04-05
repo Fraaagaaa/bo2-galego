@@ -1,0 +1,891 @@
+REFERENCE           ZMUI_SOLO_PLAY_CAPS
+LANG_SPANISH        "XOGO INDIVIDUAL"
+
+REFERENCE           ZMUI_CLASSIC_CAPS
+LANG_SPANISH        "TRANZIT" 
+
+REFERENCE           ZMUI_CLASSIC_TRANSIT_1_PLAYER_CAPS
+LANG_SPANISH        "TRANZIT 1 XOGADOR" 
+
+REFERENCE           ZMUI_CLASSIC_TRANSIT_2_PLAYERS_CAPS
+LANG_SPANISH        "TRANZIT 2 XOGADORES" 
+
+REFERENCE           ZMUI_CLASSIC_TRANSIT_3_PLAYERS_CAPS
+LANG_SPANISH        "TRANZIT 3 XOGADORES" 
+
+REFERENCE           ZMUI_CLASSIC_TRANSIT_4_PLAYERS_CAPS
+LANG_SPANISH        "TRANZIT 4 XOGADORES" 
+
+REFERENCE           ZMUI_ZCLASSIC_CAPS
+LANG_SPANISH        "TRANZIT" 
+
+REFERENCE           ZMUI_ZCLASSIC_ZM_TRANSIT_CAPS
+LANG_SPANISH        "TRANZIT" 
+
+REFERENCE           ZMUI_ZCLASSIC_ZMUI_TRANSIT_LOC_CAPS
+LANG_SPANISH        "TRANZIT" 
+
+REFERENCE           MENU_ZM_PRISON_CAPS
+LANG_SPANISH        "MOB OF THE DEAD" 
+
+REFERENCE           ZMUI_CLASSIC_ZM_PRISON_CAPS
+LANG_SPANISH        "MOB OF THE DEAD" 
+
+REFERENCE           ZMUI_ZCLASSIC_ZM_PRISON_CAPS
+LANG_SPANISH        "MOB OF THE DEAD" 
+
+REFERENCE           ZMUI_ZCLASSIC_ZMUI_PRISON_LOC_CAPS
+LANG_SPANISH        "MOB OF THE DEAD" 
+
+REFERENCE           ZMUI_NUKED_LOC
+LANG_SPANISH        "NUKETOWN" 
+
+REFERENCE           ZMUI_NUKED_STARTLOC_CAPS
+LANG_SPANISH        "NUKETOWN" 
+
+REFERENCE           MENU_DLCZM0_MAP_PACK_NAME_DASH
+LANG_SPANISH        "-NUKETOWN ZOMBIES" 
+
+REFERENCE           ZMUI_WAITING_FOR_HOST_TO_START
+LANG_SPANISH        "Listo para a partida" 
+
+REFERENCE           MENU_ZM_TOMB_CAPS
+LANG_SPANISH        "ORIGINS" 
+
+REFERENCE           ZMUI_CLASSIC_ZM_TOMB_CAPS
+LANG_SPANISH        "ORIGINS" 
+
+REFERENCE           ZMUI_ZCLASSIC_ZM_TOMB_CAPS
+LANG_SPANISH        "ORIGINS" 
+
+REFERENCE           ZMUI_ZCLASSIC_ZMUI_TOMB_LOC_CAPS
+LANG_SPANISH        "ORIGINS" 
+
+REFERENCE           ZMUI_ZCLASSIC_ZM_BURIED_CAPS
+LANG_SPANISH        "BURIED" 
+
+REFERENCE           ZMUI_ZCLASSIC_ZMUI_BURIED_LOC_CAPS
+LANG_SPANISH        "BURIED" 
+
+REFERENCE           ZMUI_CLASSIC_ZM_BURIED_CAPS
+LANG_SPANISH        "BURIED" 
+
+REFERENCE           MENU_ZM_BURIED_CAPS
+LANG_SPANISH        "BURIED" 
+
+REFERENCE           MENU_ZM_HIGHRISE_CAPS
+LANG_SPANISH        "DIE RISE" 
+
+REFERENCE           ZMUI_CLASSIC_ZM_HIGHRISE_CAPS
+LANG_SPANISH        "DIE RISE" 
+
+REFERENCE           ZMUI_ZCLASSIC_ZM_HIGHRISE_CAPS
+LANG_SPANISH        "DIE RISE" 
+
+REFERENCE           ZMUI_ZCLASSIC_ZMUI_HIGHRISE_LOC_CAPS
+LANG_SPANISH        "DIE RISE" 
+
+REFERENCE           MPUI_RULES_DIFFICULTY_CAPS
+LANG_SPANISH        "DIFICULTADE" 
+
+REFERENCE           MENU_DIFFICULTY_CAPS
+LANG_SPANISH        "DIFICULTADE" 
+
+REFERENCE           ZMUI_DIFFICULTY_NORMAL_CAPS
+LANG_SPANISH        "ORIXINAL" 
+
+REFERENCE           ZMUI_STARTING_ROUND_CAPS
+LANG_SPANISH        "RONDA INICIAL" 
+
+REFERENCE           MPUI_RULES_HEADSHOTS_ONLY_CAPS
+LANG_SPANISH        "SÓ TIROS NA CABEZA" 
+
+REFERENCE           MENU_AIM_ASSIST_CAPS
+LANG_SPANISH        "AXUDA DE TIRO" 
+
+REFERENCE           MENU_TARGET_ASSIST_CAPS
+LANG_SPANISH        "AXUDA DE TIRO" 
+
+REFERENCE           ZMUI_BURIED_CAPS
+LANG_SPANISH        "RESOLUCIÓN 1295" 
+
+REFERENCE           CGAME_SB_SCORE
+LANG_SPANISH        "Punt." 
+
+REFERENCE           CGAME_SB_KILLS
+LANG_SPANISH        "Baixas" 
+
+REFERENCE           MENU_LB_PLAYER_KILLS
+LANG_SPANISH        "Baixas" 
+
+REFERENCE           CGAME_SB_DOWNS
+LANG_SPANISH        "Abatido" 
+
+REFERENCE           CGAME_SB_REVIVES
+LANG_SPANISH        "Reanim." 
+
+REFERENCE           CGAME_SB_HEADSHOTS
+LANG_SPANISH        "T. cabeza" 
+
+REFERENCE           CGAME_SB_PING
+LANG_SPANISH        "Ping" 
+
+REFERENCE           MENU_GAME_INVITES_CAPS
+LANG_SPANISH        "INVITACIÓNS"
+REFERENCE           MPUI_NO_RECENT
+LANG_SPANISH        "Non hai xogadores recentes."
+REFERENCE           MENU_LEAGUE_FRIENDS_NONE
+LANG_SPANISH        "Convértete en membro dun equipo de liga en Xogo en liga e os teus compañeiros amosaranse aquí."
+REFERENCE           MPUI_NO_FRIENDS
+LANG_SPANISH        "Non tes amigos."
+REFERENCE           ZMUI_QUEST_ITEMS
+LANG_SPANISH        "Obxectos de misión"
+REFERENCE           ZMUI_RECIPES
+LANG_SPANISH        "Receitas"
+REFERENCE           MPUI_MTX_WEAPON19
+LANG_SPANISH        "Paquete Potenciadora"
+
+REFERENCE           MPUI_PAP
+LANG_SPANISH        "Potenciadora"
+
+REFERENCE           ZOMBIE_PERK_PACKAPUNCH
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 
+para Potenciadora (custo: &&1)."
+
+REFERENCE           ZOMBIE_PERK_PACKAPUNCH_ATT
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Potenciadora (custo: &&1)."
+REFERENCE           CGAME_SB_CAPTURES
+LANG_SPANISH        "Tomas"
+
+REFERENCE           ZMUI_CAPTURES
+LANG_SPANISH        "Tomas"
+REFERENCE           ZOMBIE_REVIVING
+LANG_SPANISH        "Reanimando"
+
+REFERENCE           ZOMBIE_REVIVING_SOLO
+LANG_SPANISH        "Reanimando "
+REFERENCE           ZOMBIE_PERK_ADDITIONALPRIMARYWEAPON
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Coz 
+(custo: &&1)"
+
+REFERENCE           ZOMBIE_PERK_BANDOLIER
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para mercar Bandoleira (custo: &&1)."
+REFERENCE           ZOMBIE_PERK_CHUGABUD
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Quen é quen (custo: &&1)."
+REFERENCE           ZOMBIE_PERK_DEADSHOT
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Daiquiri letal (custo: &&1)."
+REFERENCE           ZOMBIE_PERK_DIVETONUKE
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Dr. Chungo (custo: &&1)."
+REFERENCE           ZOMBIE_PERK_DOUBLETAP
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Doble tiro (custo: &&1)."
+REFERENCE           ZOMBIE_PERK_FASTRELOAD
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Cola rápida (custo: &&1)."
+REFERENCE           ZOMBIE_PERK_GENERIC
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para mercar. "
+
+REFERENCE           ZOMBIE_PERK_JUGGERNAUT
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Titán (custo: &&1)."
+REFERENCE           ZOMBIE_PERK_MARATHON
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Resistencia+ (custo: &&1)."
+REFERENCE           ZOMBIE_PERK_PACKAPUNCH
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Potenciadora (custo: &&1)."
+REFERENCE           ZOMBIE_PERK_PACKAPUNCH_ATT
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Potenciadora (custo: &&1)."
+REFERENCE           ZOMBIE_PERK_QUICKREVIVE
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Reanimación (custo: &&1)."
+REFERENCE           ZOMBIE_PERK_QUICKREVIVE_SOLO
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Reanimación (custo: &&1)."
+REFERENCE           ZOMBIE_PERK_STOPPINGPOWER
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para mercar Forza vulnerante (custo: &&1)."
+REFERENCE           ZOMBIE_PERK_TOMBSTONE
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Lápida (custo: &&1)."
+REFERENCE           ZOMBIE_PERK_VULTURE
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para auxilio de voitre (custo: &&1)."
+REFERENCE           ZMWEAPON_DIESELDRONE
+LANG_SPANISH        "Dron Maxis"
+REFERENCE           SCRIPT_HINT_CANT_OPEN_DOORS
+LANG_SPANISH        "Esta porta non se pode abrir. Non te molestes en tentar abrir portas pechadas."
+REFERENCE           SCRIPT_HINT_DOOR
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir a porta."
+REFERENCE           ZOMBIE_BUTTON_BUY_CLOSE_DOOR
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para cerrar a porta."
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_100
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir porta (custo: 100)."
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1000
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir porta (custo: 1.000)."
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1250
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir porta (custo: 1.250)."
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1500
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir porta (custo: 1.500)."
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_16000
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir porta (custo: 16.000)."
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1750
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir porta (custo: 1.750)."
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_200
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir porta (custo: 200)."
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_2000
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir porta (custo: 2.000)."
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_250
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir porta (custo: 250)."
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_2500
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir porta (custo: 2.500)."
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_3000
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir porta (custo: 3.000)."
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_4000
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir porta (custo: 4.000)."
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_500
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir porta (custo: 500)."
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_5000
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir porta (custo: 5.000)."
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_750
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir porta (custo: 750)."
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_8000
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir porta (custo: 8.000)."
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_COST
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir porta (custo: &&1)."
+REFERENCE           ZOMBIE_CLEAR_DEBRIS
+LANG_SPANISH        "Antes hai que abrir a porta."
+REFERENCE           ZOMBIE_PROJ_DOOR
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir a porta."
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_100
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para limpar cascallos (custo: 100)."
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1000
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para limpar cascallos (custo: 1.000)."
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1250
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para limpar cascallos (custo: 1.250)."
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1500
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para limpar cascallos (custo: 1.500)."
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1750
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para limpar cascallos (custo: 1.750)."
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_200
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para limpar cascallos (custo: 200)."
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_2000
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para limpar cascallos (custo: 2.000)."
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_250
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para limpar cascallos (custo: 250)."
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_3000
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para limpar cascallos (custo: 3.000)."
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_500
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para limpar cascallos (custo: 500)."
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_750
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para limpar cascallos (custo: 750)."
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_COST
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para limpar cascallos (custo: &&1)."
+REFERENCE           ZOMBIE_RANDOM_WEAPON_COST
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Caixa misteriosa (custo: &&1)."
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_100
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir zona (custo: 100)."
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1000
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir zona (custo: 1.000)."
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1250
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir zona (custo: 1.250)."
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1500
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir zona (custo: 1.500)."
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1750
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir zona (custo: 1.750)."
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_200
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir zona (custo: 200)."
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_2000
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir zona (custo: 2.000)."
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_250
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir zona (custo: 250)."
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_2500
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir zona (custo: 2.500)."
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_500
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir zona (custo: 500)."
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_750
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir zona (custo: 750)."
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_COST
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir zona (custo: &&1)."
+REFERENCE           ZMWEAPON_BALLISTA_WALLBUY
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para mercar Ballista (custo: &&1)."
+REFERENCE           ZMWEAPON_MP44_WALLBUY
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para mercar STG-44 (custo: &&1)."
+REFERENCE           ZOMBIE_ABILITY_AIRSTRIKE
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para mercar ataque aéreo (primeiro uso: 500).\nSeguintes (custo: &&1)."
+REFERENCE           ZOMBIE_ABILITY_ARTILLERY
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para mercar artillería (primeiro uso: 500).\nSeguintes (custo: &&1)."
+REFERENCE           ZOMBIE_ABILITY_CLOAK
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para mercar ocultación (primeiro uso: 500).\nSeguintes (custo: &&1)."
+REFERENCE           ZOMBIE_ABILITY_DOGS
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para mercar cans (primeiro uso: 500).\nSeguintes (custo: &&1)."
+REFERENCE           ZOMBIE_ABILITY_ENDURANCE
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para mercar bomba RC (primeiro uso: 500).\nSeguintes (custo: &&1)."
+REFERENCE           ZOMBIE_ABILITY_HELICOPTER
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para mercar helicóptero (primeiro uso: 500).\nSeguintes (custo: &&1)."
+REFERENCE           ZOMBIE_ABILITY_NAPALM
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para mercar napalm (primeiro uso: 500).\nSeguintes (custo: &&1)."
+REFERENCE           ZOMBIE_ABILITY_PORTAL
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para mercar portal (primeiro uso: 500).\nSeguintes (custo: &&1)."
+REFERENCE           ZOMBIE_ABILITY_RCBOMB
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para mercar bomba RC (primeiro uso: 500).\nSeguintes (custo: &&1)."
+REFERENCE           ZOMBIE_ABILITY_TIMEDISTORTION
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para mercar distorsión temporal (primeiro uso: 500).\nSeguintes (custo: &&1)."
+REFERENCE           ZOMBIE_ABILITY_TURRET
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para mercar torreta (primeiro uso: 500).\nSeguintes (custo: &&1)."
+REFERENCE           ZOMBIE_AUTO_TURRET
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para activar a torreta automática (custo: &&1)."
+REFERENCE           ZOMBIE_BANK_WITHDRAW_PROMPT
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para retirar &&1 (custo: &&2)"
+
+REFERENCE           ZOMBIE_BETTY_PURCHASE
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para mercar Bouncing Bettys (custo: 1.000 - unha única vez)."
+REFERENCE           ZOMBIE_BUILD_BRIDGE
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para construír ponte (custo: 1.000)."
+REFERENCE           ZOMBIE_BUTTON_ACTIVATE_ELECTRIC
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para usar barreira eléctrica (custo: 1.000)."
+REFERENCE           ZOMBIE_BUTTON_ACTIVATE_FLAMES
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para activar a barreira de fogo (custo: 500)."
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_10
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para volver mercar a barreira (custo: 10)."
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_100
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para volver mercar a barreira (custo: 100)."
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_20
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para volver mercar a barreira (custo: 20)."
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_50
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para volver mercar a barreira (custo: 50)."
+REFERENCE           ZOMBIE_BUTTON_BUY_TRAP
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para activar a trampa (custo: &&1)."
+REFERENCE           ZOMBIE_BUTTON_SOUTH_FLAMES
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para activar a barreira de fogo (custo: 500)."
+REFERENCE           ZOMBIE_CABINET_OPEN_1000
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir o arquivador (custo: 1.000)."
+REFERENCE           ZOMBIE_CABINET_OPEN_1500
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir o arquivador (custo: 1.500)."
+REFERENCE           ZOMBIE_CABINET_OPEN_2000
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir o arquivador (custo: 2.000)."
+REFERENCE           ZOMBIE_CABINET_OPEN_500
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir o arquivador (custo: 500)."
+REFERENCE           ZOMBIE_CLAYMORE_PURCHASE
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Claymore (custo: 1.000)."
+REFERENCE           ZOMBIE_COAST_ZIPLINE
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para usar a tirolesa (custo: 1.000)."
+REFERENCE           ZOMBIE_DOOR_ACTIVATE_COUNTER
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para activar o contador de baixas (custo: &&1)."
+REFERENCE           ZOMBIE_FIRE_SALE_COST
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para arma aleatoria (custo: 10)."
+REFERENCE           ZOMBIE_HACK
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para piratear (custo: &&1)."
+REFERENCE           ZOMBIE_LOCKED_COST
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para desbloquear (custo: &&1)."
+REFERENCE           ZOMBIE_LOCKED_COST_2000
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para desbloquear (custo: 2.000)."
+REFERENCE           ZOMBIE_LOCKED_COST_4000
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para desbloquear (custo: 4.000)."
+REFERENCE           ZOMBIE_LOCKED_COST_6000
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para desbloquear (custo: 6.000)."
+REFERENCE           ZOMBIE_PAY_TURRET
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para usar a torreta (custo: &&1)."
+REFERENCE           ZOMBIE_PERK_ADDITIONALPRIMARYWEAPON
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Coz (custo: &&1)"
+
+REFERENCE           ZOMBIE_PERK_BANDOLIER
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para mercar Bandoleira (custo: &&1)."
+REFERENCE           ZOMBIE_PERK_CHUGABUD
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Quen é quen (custo: &&1)."
+REFERENCE           ZOMBIE_PERK_DEADSHOT
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Daiquiri letal (custo: &&1)."
+REFERENCE           ZOMBIE_PERK_DIVETONUKE
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Dr. Chungo (custo: &&1)."
+REFERENCE           ZOMBIE_PERK_DOUBLETAP
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Doble tiro (custo: &&1)."
+REFERENCE           ZOMBIE_PERK_FASTRELOAD
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Cola rápida (custo: &&1)."
+REFERENCE           ZOMBIE_PERK_JUGGERNAUT
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Titán (custo: &&1)."
+REFERENCE           ZOMBIE_PERK_MARATHON
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Resistencia+ (custo: &&1)."
+REFERENCE           ZOMBIE_PERK_PACKAPUNCH
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Potenciadora (custo: &&1)."
+REFERENCE           ZOMBIE_PERK_PACKAPUNCH_ATT
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Potenciadora (custo: &&1)."
+REFERENCE           ZOMBIE_PERK_QUICKREVIVE
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Reanimación (custo: &&1)."
+REFERENCE           ZOMBIE_PERK_QUICKREVIVE_SOLO
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Reanimación (custo: &&1)."
+REFERENCE           ZOMBIE_PERK_STOPPINGPOWER
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para mercar Forza vulnerante (custo: &&1)."
+REFERENCE           ZOMBIE_PERK_TOMBSTONE
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Lápida (custo: &&1)."
+REFERENCE           ZOMBIE_PERK_VULTURE
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para auxilio de voitre (custo: &&1)."
+REFERENCE           ZOMBIE_PROJ_LIFT
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para activar ascensor (custo: 500)."
+REFERENCE           ZOMBIE_RANDOM_WEAPON_650
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para arma aleatoria (custo: 650)."
+REFERENCE           ZOMBIE_RANDOM_WEAPON_750
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para arma aleatoria (custo: 750)."
+REFERENCE           ZOMBIE_RANDOM_WEAPON_850
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para arma aleatoria (custo: 850)."
+REFERENCE           ZOMBIE_RANDOM_WEAPON_950
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para arma aleatoria (custo: 950)."
+REFERENCE           ZOMBIE_RANDOM_WEAPON_COST
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Caixa misteriosa (custo: &&1)."
+REFERENCE           ZOMBIE_TELEPORT_TO_CORE
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para teletransportarte ao ordenador central (custo: 1.500)."
+REFERENCE           ZOMBIE_TELLER_GIVE_MONEY
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para engadir 1.000 (custo: &&1)."
+REFERENCE           ZOMBIE_TRAP_DOOR
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para activar o trampón (custo: 1.000)."
+REFERENCE           ZOMBIE_USE_AUTO_TURRET
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para activar a torreta da fonte (custo: 750)."
+REFERENCE           ZOMBIE_USE_TELEPORTER
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para usar o teletransporte (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_870MCS
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Remington 870 MCS (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_AK47
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para AK-47 (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_AK47_MK
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para AK-47 con GP30 (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_AK74U
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para AK74u (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_AN94
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para AN-94 (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_AS50
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para AS-50 (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_AUG
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para AUG (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_BARRETM82
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Barret M82A1 (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_BERETTA93R
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para B23R (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_BOWIE_BUY
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para coitelo Bowie (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_CHINA_LAKE
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para CHINA_LAKE (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_CLAYMORE
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Claymore (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_COMMANDO
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para COMMANDO (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_CROSSBOW_EXPLOSIVE
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para BALLESTA_EXPLOSIVA (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_CZ75DW
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para CZ75DW (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_DRAGUNOV
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Dragunov (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_DSR50
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para DSR-50 (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_ENFIELD
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para ENFIELD (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_FAMAS
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para FAMAS (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_FIVESEVEN
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Five-seven (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_FIVESEVEN_DW
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Five-seven a dúas mans (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_FNFAL
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para FN FAL (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_FRAG_GRENADE
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para granadas de fragmentación (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_G11
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para G11 (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_GALIL
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para GALIL (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_HAMR
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para HAMR (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_HK21
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para HK21 (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_HS10
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para HS10 (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_ITHACA
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Stakeout (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_JAVELIN
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Javelin (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_JUDGE
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Raging Judge (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_KARD
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para KAP (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_KIPARIS
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para dobre Kiparis (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_L96A1
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para L96A1 (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_LSAT
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para LSAT (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_M14
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para M14 (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_M16
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Colt M16A1 (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_M16_GL
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para M16 con M203 (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_M1911
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para M1911 (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_M202_FLASH
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para M202 FLASH (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_M32
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para lanzagranadas M32 (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_M60
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para M60 (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_M72_LAW
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para M72_LAW (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_MAC11
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para MAC-11 (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_MINIGUN
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para canón automático (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_MP40
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para MP40 (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_MP5K
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para MP5 (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_MPL
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para MPL (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_P90
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para vello P90 (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_PDW57
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para PDW-57 (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_PM63
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para PM63 (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_PYTHON
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Python (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_QCW05
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para QCW-05 (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_RAYGUN
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para arma de raios (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_RIOTSHIELD
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para escudo zombi (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_RNMA
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Remington New Model Army (custo: &&1)"
+
+REFERENCE           ZOMBIE_WEAPON_ROTTWEIL72
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Olympia (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_RPD
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para RPD (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_RPK
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para RPK (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_SABERTOOTH
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Dentes de sabre (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_SAIGA12
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Saiga-12 (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_SARITCH
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Saritch (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_SKORPION
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Skorpion (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_SPAS
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para SPAS (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_SPECTRE
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para SPECTRE (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_SRM1216
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para M1216 (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_STICKY_GRENADE
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Semtex (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_STONER63
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Stoner 63 (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_SVU
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para SVU-AS (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_TAR21
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para X95L (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_TAZER_BUY
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para nocellos galvanizados (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_TESLA
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para mercar arma Tesla (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_THUNDERGUN
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para arma Thunder (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_TYPE95
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Type 25 (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_USRPG
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para RPG (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_UZI
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para Uzi (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_WA2000
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para WA-2000 (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_XM25
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para XM25 (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPON_XM8
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para M8A1 (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPONAMMOONLY
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para munición (custo: &&1)."
+REFERENCE           ZOMBIE_WEAPONCOSTONLY
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para &&1 (custo: &&2)."
+REFERENCE           ZOMBIE_ZIPLINE_USE
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para activar a tirolesa (custo: 1.500)."
+
+// ARMAS
+
+REFERENCE           ZMWEAPON_870MCS_DUALCLIP
+LANG_SPANISH        "R-870 MCS con cargador rápido"
+
+REFERENCE           ZMWEAPON_870MCS_DUALCLIP_UPGRADED
+LANG_SPANISH        "Secuenciador craneal mecánico Rettified-870"
+
+REFERENCE           ZMWEAPON_870MCS_UPGRADED
+LANG_SPANISH        "Secuenciador craneal mecánico 870 modificado"
+
+REFERENCE           ZMWEAPON_ACIDGAT
+LANG_SPANISH        "Acidgat"
+
+REFERENCE           ZMWEAPON_ACIDGAT_UPGRADED
+LANG_SPANISH        "Marchitamiento corrosivo"
+
+REFERENCE           ZMWEAPON_AK47_UPGRADED
+LANG_SPANISH        "Venganza Reznov"
+
+REFERENCE           ZMWEAPON_AK74U_EXTCLIP
+LANG_SPANISH        "AK74U con cargador ampliado"
+
+REFERENCE           ZMWEAPON_ALCATRAZ_RIOTSHIELD
+LANG_SPANISH        "Escudo zombi"
+
+REFERENCE           ZMWEAPON_AN94_UPGRADED
+LANG_SPANISH        "Neutralizer 94000 impulsado"
+
+REFERENCE           ZMWEAPON_BALLISTA_UPGRADED
+LANG_SPANISH        "Arbalesta infusionada"
+
+REFERENCE           ZMWEAPON_BALLISTA_WALLBUY
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para comprar Ballista (coste: &&1)."
+
+REFERENCE           ZMWEAPON_BARRETM82_UPGRADED
+LANG_SPANISH        "Macroaniquilador"
+
+REFERENCE           ZMWEAPON_BEACON
+LANG_SPANISH        "Baliza guiada de artillería"
+
+REFERENCE           ZMWEAPON_BERETTA93R_EXTCLIP
+LANG_SPANISH        "B23R con cargador ampliado"
+
+REFERENCE           ZMWEAPON_BERETTA93R_EXTCLIP_UPGRADED
+LANG_SPANISH        "B34R"
+
+REFERENCE           ZMWEAPON_BERETTA93R_UPGRADED
+LANG_SPANISH        "B34R"
+
+REFERENCE           ZMWEAPON_BLUNDERGAT
+LANG_SPANISH        "Blundergat"
+
+REFERENCE           ZMWEAPON_BLUNDERGAT_UPGRADED
+LANG_SPANISH        "El barrendero"
+
+REFERENCE           ZMWEAPON_BOWIE
+LANG_SPANISH        "Cuchillo Bowie"
+
+REFERENCE           ZMWEAPON_C96
+LANG_SPANISH        "Mauser C96"
+
+REFERENCE           ZMWEAPON_C96_UPGRADED
+LANG_SPANISH        "BoomHilda"
+
+REFERENCE           ZMWEAPON_DIESELDRONE
+LANG_SPANISH        "Dron Maxis"
+
+REFERENCE           ZMWEAPON_DSR50_UPGRADED
+LANG_SPANISH        "Reactor de especímenes muertos 5000"
+
+REFERENCE           ZMWEAPON_EVOSKORPION_UPGRADED
+LANG_SPANISH        "Acechador de la muerte evolucionado"
+
+REFERENCE           ZMWEAPON_FIVESEVEN_DW_UPGRADED
+LANG_SPANISH        "Ultra y violeta"
+
+REFERENCE           ZMWEAPON_FIVESEVEN_UPGRADED
+LANG_SPANISH        "Ultra"
+
+REFERENCE           ZMWEAPON_FNFAL
+LANG_SPANISH        "FAL"
+
+REFERENCE           ZMWEAPON_HAMR_UPGRADED
+LANG_SPANISH        "SUPR HAMR"
+
+REFERENCE           ZMWEAPON_HK416_UPGRADED
+LANG_SPANISH        "Mystifier"
+
+REFERENCE           ZMWEAPON_JETGUN
+LANG_SPANISH        "Thrustodyne Aeronautics modelo 23"
+
+REFERENCE           ZMWEAPON_JUDGE_UPGRADED
+LANG_SPANISH        "Voz justiciera"
+
+REFERENCE           ZMWEAPON_KARD_UPGRADED
+LANG_SPANISH        "Perforador atómico kármico 4000"
+
+REFERENCE           ZMWEAPON_KSG_UPGRADED
+LANG_SPANISH        "Creador de niebla"
+
+REFERENCE           ZMWEAPON_LSAT_UPGRADED
+LANG_SPANISH        "FSIRT"
+
+REFERENCE           ZMWEAPON_M32_UPGRADED
+LANG_SPANISH        "Demoledor distópico"
+
+REFERENCE           ZMWEAPON_MG08
+LANG_SPANISH        "MG08/15"
+
+REFERENCE           ZMWEAPON_MG08_UPGRADED
+LANG_SPANISH        "Colisionador magno"
+
+REFERENCE           ZMWEAPON_MINIGUN_UPGRADED
+LANG_SPANISH        "Triturador de carne"
+
+REFERENCE           ZMWEAPON_MP40
+LANG_SPANISH        "MP40"
+
+REFERENCE           ZMWEAPON_MP40_STALKER
+LANG_SPANISH        "MP-40 con culata ajustable"
+
+REFERENCE           ZMWEAPON_MP40_STALKER_UPGRADED
+LANG_SPANISH        "Posquemador"
+
+REFERENCE           ZMWEAPON_MP40_UPGRADED
+LANG_SPANISH        "Posquemador"
+
+REFERENCE           ZMWEAPON_MP44
+LANG_SPANISH        "STG-44"
+
+REFERENCE           ZMWEAPON_MP44_UPGRADED
+LANG_SPANISH        "Spatz-447 +"
+
+REFERENCE           ZMWEAPON_MP44_WALLBUY
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para comprar STG-44 (coste: &&1)."
+
+REFERENCE           ZMWEAPON_PARALYZER
+LANG_SPANISH        "Paralizador"
+
+REFERENCE           ZMWEAPON_PARALYZER_UPGRADED
+LANG_SPANISH        "Petrificador"
+
+REFERENCE           ZMWEAPON_PDW57_UPGRADED
+LANG_SPANISH        "Death Wish 57000 predictivo"
+
+REFERENCE           ZMWEAPON_QCW05_UPGRADED
+LANG_SPANISH        "Ráfaga cuádruple cataclísmica Chicom"
+
+REFERENCE           ZMWEAPON_RAYGUN_MARK2
+LANG_SPANISH        "Arma de rayos, Mark 2"
+
+REFERENCE           ZMWEAPON_RAYGUN_MARK2_UPGRADED
+LANG_SPANISH        "Arma de rayos, Mark 2 de Porter"
+
+REFERENCE           ZMWEAPON_RIOTSHIELD
+LANG_SPANISH        "Escudo zombi"
+
+REFERENCE           ZMWEAPON_RNMA
+LANG_SPANISH        "Remington New Model Army"
+
+REFERENCE           ZMWEAPON_RNMA_UPGRADED
+LANG_SPANISH        "Sasafrás"
+
+REFERENCE           ZMWEAPON_RPD_UPGRADED
+LANG_SPANISH        "Dispositivo de castigo relativista"
+
+REFERENCE           ZMWEAPON_SAIGA12_UPGRADED
+LANG_SPANISH        "Docena sintética"
+
+REFERENCE           ZMWEAPON_SARITCH_UPGRADED
+LANG_SPANISH        "SM1L3R"
+
+REFERENCE           ZMWEAPON_SCAR_UPGRADED
+LANG_SPANISH        "Muerte de Agartha"
+
+REFERENCE           ZMWEAPON_SLIPGUN
+LANG_SPANISH        "Esliquidificador"
+
+REFERENCE           ZMWEAPON_SLIPGUN_UPGRADED
+LANG_SPANISH        "3Sl1qu1d1f1ca0r"
+
+REFERENCE           ZMWEAPON_SRM1216_UPGRADED
+LANG_SPANISH        "Mesmerizador"
+
+REFERENCE           ZMWEAPON_STAFF_AIR
+LANG_SPANISH        "Bastón de viento"
+
+REFERENCE           ZMWEAPON_STAFF_AIR_UPGRADED
+LANG_SPANISH        "Furia de Bóreas"
+
+REFERENCE           ZMWEAPON_STAFF_FIRE
+LANG_SPANISH        "Bastón de fuego"
+
+REFERENCE           ZMWEAPON_STAFF_FIRE_UPGRADED
+LANG_SPANISH        "Sangre de Kagutsuchi"
+
+REFERENCE           ZMWEAPON_STAFF_LIGHTNING
+LANG_SPANISH        "Bastón de rayos"
+
+REFERENCE           ZMWEAPON_STAFF_LIGHTNING_UPGRADED
+LANG_SPANISH        "Picadura de Kimat"
+
+REFERENCE           ZMWEAPON_STAFF_REVIVE
+LANG_SPANISH        "Vigor de Sekhmet"
+
+REFERENCE           ZMWEAPON_STAFF_WATER
+LANG_SPANISH        "Bastón de hielo"
+
+REFERENCE           ZMWEAPON_STAFF_WATER_UPGRADED
+LANG_SPANISH        "Flecha de Ull"
+
+REFERENCE           ZMWEAPON_SVU_UPGRADED
+LANG_SPANISH        "Utilizador velo sombrío"
+
+REFERENCE           ZMWEAPON_TAR21_UPGRADED
+LANG_SPANISH        "Redentor malévolo taxonómico anodizado"
+
+REFERENCE           ZMWEAPON_TAZER
+LANG_SPANISH        "Nudillos galvanizados"
+
+REFERENCE           ZMWEAPON_THOMPSON
+LANG_SPANISH        "M1927"
+
+REFERENCE           ZMWEAPON_THOMPSON_UPGRADED
+LANG_SPANISH        "Tugurio"
+
+REFERENCE           ZMWEAPON_THOMPSON_WALLBUY
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para comprar M1927 [Coste: &&1]"
+
+REFERENCE           ZMWEAPON_TIME_BOMB
+LANG_SPANISH        "Bomba de tiempo"
+
+REFERENCE           ZMWEAPON_TOMAHAWK
+LANG_SPANISH        "Cobrador infernal"
+
+REFERENCE           ZMWEAPON_TOMAHAWK_UPGRADED
+LANG_SPANISH        "Redentor infernal"
+
+REFERENCE           ZMWEAPON_TOMB_RIOTSHIELD
+LANG_SPANISH        "Escudo zombi"
+
+REFERENCE           ZMWEAPON_TYPE95_UPGRADED
+LANG_SPANISH        "Cepa 25"
+
+REFERENCE           ZMWEAPON_USRPG_UPGRADED
+LANG_SPANISH        "Agravio impulsado por cohete"
+
+REFERENCE           ZMWEAPON_UZI_UPGRADED
+LANG_SPANISH        "Tío Gal"
+
+REFERENCE           ZMWEAPON_XM8_UPGRADED
+LANG_SPANISH        "Microaireador"
+
+REFERENCE           ZOMBIE_AK74U_UPGRADED
+LANG_SPANISH        "AK74 QTDN"
+
+REFERENCE           ZOMBIE_AUG_GL_UPGRADED
+LANG_SPANISH        "AUG con lanzagranadas mejorado"
+
+REFERENCE           ZOMBIE_AUG_UPGRADED
+LANG_SPANISH        "AUG-50M3"
+
+REFERENCE           ZOMBIE_CHINA_LAKE_UPGRADED
+LANG_SPANISH        "China Beach"
+
+REFERENCE           ZOMBIE_COMMANDO_UPGRADED
+LANG_SPANISH        "Predator"
+
+REFERENCE           ZOMBIE_CROSSBOW_EXPLOSIVE_UPGRADED
+LANG_SPANISH        "Temible Lawton"
+
+REFERENCE           ZOMBIE_CROSSBOW_UPGRADED
+LANG_SPANISH        "Temible Lawton"
+
+REFERENCE           ZOMBIE_CZ75_DW_UPGRADED
+LANG_SPANISH        "Calamity y Jane"
+
+REFERENCE           ZOMBIE_CZ75_UPGRADED
+LANG_SPANISH        "Calamity"
+
+REFERENCE           ZOMBIE_DRAGUNOV_UPGRADED
+LANG_SPANISH        "D115 Disassembler"
+
+REFERENCE           ZOMBIE_FNFAL_UPGRADED
+LANG_SPANISH        "WN"
+
+REFERENCE           ZOMBIE_GALIL_UPGRADED
+LANG_SPANISH        "Lamento"
+
+REFERENCE           ZOMBIE_GAME_OVER
+LANG_SPANISH        "FIN DO XOGO"

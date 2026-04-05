@@ -1,0 +1,32 @@
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOMBIE_TRANSIT_BUS_CLIMB_ROOF
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para subir ao tellado." [cite: 2]
+
+REFERENCE           ZOMBIE_TRANSIT_CLOSE_BUS_DOOR
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para pechar." [cite: 3]
+
+REFERENCE           ZOMBIE_TRANSIT_EMERGENCY_EXIT
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para saída de emerxencia." [cite: 4]
+
+REFERENCE           ZOMBIE_TRANSIT_ENGINE_OVERHEAT
+LANG_SPANISH        "Motor sobrequecemento. Agardando a que arrefrie." [cite: 5]
+
+REFERENCE           ZOMBIE_TRANSIT_ENTER_BUNKER
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para entrar no búnker." [cite: 6]
+
+REFERENCE           ZOMBIE_TRANSIT_HATCH_DOWN
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para baixar." [cite: 7]
+
+REFERENCE           ZOMBIE_TRANSIT_HATCH_UP
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para subir." [cite: 8]
+
+REFERENCE           ZOMBIE_TRANSIT_OPEN_BUS_DOOR
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir." [cite: 9]
+
+REFERENCE           ZOMBIE_TRANSIT_PURCHASE_BUS
+LANG_SPANISH        "Preme ^3[{+activate}]^7 para arrincar o autobús (custo: &&1)." [cite: 10]
+
+ENDMARKER

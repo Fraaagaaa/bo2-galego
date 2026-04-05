@@ -1,0 +1,58 @@
+// Dumped from fastfile "sp_zm_highrise".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZM_HIGHRISE_BOUGHT_KEYS
+LANG_SPANISH        "Colliches unha chave."
+REFERENCE           ZM_HIGHRISE_BOUGHT_SLIPGUN
+LANG_SPANISH        "Colliches un esliquidificador."
+REFERENCE           ZM_HIGHRISE_BOUGHT_SPRINGPAD
+LANG_SPANISH        "Colliches un vapor arrollador."
+REFERENCE           ZM_HIGHRISE_BUILD_KEYS
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para inserir a chave do ascensor."
+REFERENCE           ZM_HIGHRISE_BUILD_SLIPGUN
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para engadir peza."
+REFERENCE           ZM_HIGHRISE_BUILD_SPRINGPAD
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para engadir peza."
+REFERENCE           ZM_HIGHRISE_BUILDING_KEYS
+LANG_SPANISH        "Peza engadida."
+REFERENCE           ZM_HIGHRISE_BUILDING_SLIPGUN
+LANG_SPANISH        "Peza engadida."
+REFERENCE           ZM_HIGHRISE_BUILDING_SPRINGPAD
+LANG_SPANISH        "Peza engadida."
+REFERENCE           ZM_HIGHRISE_EQUIP_KEYS
+LANG_SPANISH        "Chave"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_KEYS_HOWTO
+LANG_SPANISH        "Preme ^3[{+actionslot 1}]^7 para usar a chave."
+REFERENCE           ZM_HIGHRISE_EQUIP_KEYS_PICKUP_HINT_STRING
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para recoller a chave."
+REFERENCE           ZM_HIGHRISE_EQUIP_SLIPGUN
+LANG_SPANISH        "Esliquidificador"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SLIPGUN_HOWTO
+LANG_SPANISH        "Preme ^3[{+actionslot 1}]^7 para usar o esliquidificador."
+REFERENCE           ZM_HIGHRISE_EQUIP_SLIPGUN_PICKUP_HINT_STRING
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para recoller o esliquidificador."
+REFERENCE           ZM_HIGHRISE_EQUIP_SPRINGPAD
+LANG_SPANISH        "Vapor arrollador"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SPRINGPAD_HOWTO
+LANG_SPANISH        "Preme ^3[{+actionslot 1}]^7 para usar o vapor arrollador."
+REFERENCE           ZM_HIGHRISE_EQUIP_SPRINGPAD_PICKUP_HINT_STRING
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para recoller o vapor arrollador."
+REFERENCE           ZM_HIGHRISE_GRAB_KEYS
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para coller a chave."
+REFERENCE           ZM_HIGHRISE_GRAB_SLIPGUN
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para coller o esliquidificador."
+REFERENCE           ZM_HIGHRISE_GRAB_SPRINGPAD
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para coller o vapor arrollador."
+REFERENCE           ZM_HIGHRISE_SQ_PICKUP_BALL
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para tomar a bóla"
+
+REFERENCE           ZM_HIGHRISE_SQ_PUTDOWN_BALL
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para colocar a bóla"
+
+ENDMARKER
