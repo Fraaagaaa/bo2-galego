@@ -1,3 +1,3 @@
 # Como instalar
 
-Descomprime a [descarga]() en `%localappdata%\Plutonium\storage\t6`
+Descomprime a [descarga](https://github.com/Fraaagaaa/bo2-galego/releases/download/v1.0.0/BO2.En.Galego.rar) en `%localappdata%\Plutonium\storage\t6`
