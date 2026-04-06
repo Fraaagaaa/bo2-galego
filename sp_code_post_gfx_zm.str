@@ -6,37 +6,37 @@ LANG_SPANISH        "DIFICULTADE"
 
 REFERENCE           GAME_DEMI_GODMODE_ON
 LANG_SPANISH        "Modo demigod SI"
---
+
 REFERENCE           GAME_GODMODE_ON
 LANG_SPANISH        "godmode SI"
---
+
 REFERENCE           GAME_NOCLIPON
 LANG_SPANISH        "noclip SI"
---
+
 REFERENCE           GAME_NOTARGETON
 LANG_SPANISH        "notarget SI"
---
+
 REFERENCE           GAME_UFOON
 LANG_SPANISH        "ufomode SI"
---
+
 REFERENCE           MENU_ENABLED_CAPS
 LANG_SPANISH        "SI"
---
+
 REFERENCE           MENU_HEALTH_REGEN_TIME_5
 LANG_SPANISH        "SI"
---
+
 REFERENCE           MENU_HIT_MARKERS_ENABLED
 LANG_SPANISH        "SI"
---
+
 REFERENCE           MENU_ON_CAPS
 LANG_SPANISH        "SI"
---
+
 REFERENCE           MENU_STEREO_3D_ON
 LANG_SPANISH        "SI"
---
+
 REFERENCE           MENU_VOTE_YES_CAPS
 LANG_SPANISH        "VOTAR SI"
---
+
 REFERENCE           MENU_YES_CAPS
 LANG_SPANISH        "SI"
 
@@ -1066,3 +1066,42 @@ LANG_SPANISH        "Mantén ^3&&1^7 para manexar a porta."
 
 REFERENCE           MPUI_RULES_HEADSHOTS_ONLY_CAPS
 LANG_SPANISH        "SÓ TIROS Á CABEZA"
+
+REFERENCE           EXE_AWAITINGCDKEYAUTH
+LANG_SPANISH        "Agardando autorización da clave do producto"
+
+REFERENCE           EXE_AWAITINGCHALLENGE
+LANG_SPANISH        "Agardando polo desafío...&&1"
+
+REFERENCE           EXE_AWAITINGCONNECTION
+LANG_SPANISH        "Agardando pola conexión...&&1"
+
+REFERENCE           EXE_AWAITINGGAMESTATE
+LANG_SPANISH        "Agardando estado da partida"
+
+REFERENCE           EXE_AWAITINGHOST
+LANG_SPANISH        "Agardando por mais xogadores"
+
+REFERENCE           EXE_AWAITINGTEXTURES
+LANG_SPANISH        "Agardando polas texturas"
+
+REFERENCE           EXE_KEYWAIT
+LANG_SPANISH        "Agardando unha nova tecla. Pulsa ESC para cancelar ou RETROCESO para borrar"
+
+REFERENCE           EXE_WAITINGFORMASTERSERVERRESPONSE
+LANG_SPANISH        "Agardando pola resposta do servidor maestro"
+
+REFERENCE           MENU_AWAITING_PLACEMENT
+LANG_SPANISH        "Agardando colocación"
+
+REFERENCE           MENU_WAITING_FOR_1_MORE_PLAYER
+LANG_SPANISH        "Agardando por 1 xogador mais."
+
+REFERENCE           MENU_WAITING_FOR_HOST
+LANG_SPANISH        "Agardando polo host."
+
+REFERENCE           MENU_WAITING_FOR_MORE_PLAYERS
+LANG_SPANISH        "Agardando por &&1 xogadores mais."
+
+REFERENCE           MENU_WAITING_FOR_MORE_PLAYERS1
+LANG_SPANISH        "Agardando por mais xogadores."

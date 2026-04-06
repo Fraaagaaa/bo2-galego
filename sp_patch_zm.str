@@ -759,10 +759,10 @@ REFERENCE           ZMWEAPON_QCW05_UPGRADED
 LANG_SPANISH        "Ráfaga cuádruple cataclísmica Chicom"
 
 REFERENCE           ZMWEAPON_RAYGUN_MARK2
-LANG_SPANISH        "Arma de raios MK 2"
+LANG_SPANISH        "Arma de raios MK2"
 
 REFERENCE           ZMWEAPON_RAYGUN_MARK2_UPGRADED
-LANG_SPANISH        "Arma de raios MK 2 de Porter"
+LANG_SPANISH        "Arma de raios MK2, X2 de Porter"
 
 REFERENCE           ZMWEAPON_RIOTSHIELD
 LANG_SPANISH        "Escudo zombi"
@@ -904,3 +904,39 @@ LANG_SPANISH        "FIN DO XOGO"
 
 REFERENCE           CUSTOM_OPT_HEADSHOTS_ONLY
 LANG_SPANISH        "SÓ TIROS Á CABEZA"
+
+REFERENCE           ZOMBIE_M1911_UPGRADED
+LANG_SPANISH        "Mustang e Sally"
+
+REFERENCE           ZOMBIE_GRIEF_LOSE
+LANG_SPANISH        "¡DAS PENA! Sobreviveches &&1 ronda(s)."
+
+REFERENCE           ZOMBIE_GRIEF_LOSE_SINGLE
+LANG_SPANISH        "¡DAS PENA! Sobreviveches &&1 ronda(s)."
+
+REFERENCE           ZOMBIE_GRIEF_WIN
+LANG_SPANISH        "¡GAÑACHES! Sobreviveches &&1 ronda(s)."
+
+REFERENCE           ZOMBIE_GRIEF_WIN_SINGLE
+LANG_SPANISH        "¡GAÑACHES! Sobreviveches &&1 ronda(s)."
+
+REFERENCE           ZOMBIE_ROUND_END
+LANG_SPANISH        "Sobreviveches al ataque"
+
+REFERENCE           ZOMBIE_SURVIVED_NOMANS
+LANG_SPANISH        "Sobreviveches &&1."
+
+REFERENCE           ZOMBIE_SURVIVED_ROUND
+LANG_SPANISH        "Sobreviveches 1 ronda."
+
+REFERENCE           ZOMBIE_SURVIVED_ROUNDS
+LANG_SPANISH        "Sobreviveches &&1 rondas."
+
+REFERENCE           CGAME_WAITINGFORSERVERLOAD
+LANG_SPANISH        "Agardando a que o servidor cargue un novo mapa"
+
+REFERENCE           MENU_AWAITING_AUTHENTICATION
+LANG_SPANISH        "Agardando autentificación"
+
+REFERENCE           ZOMBIE_COOLDOWN_WAIT
+LANG_SPANISH        "Agardando recuperación"
