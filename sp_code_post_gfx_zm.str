@@ -1105,3 +1105,7 @@ LANG_SPANISH        "Agardando por &&1 xogadores mais."
 
 REFERENCE           MENU_WAITING_FOR_MORE_PLAYERS1
 LANG_SPANISH        "Agardando por mais xogadores."
+
+sp_code_post_gfx_zm.str
+REFERENCE           MP_CONNECTED
+LANG_SPANISH        "&&1 conectouse."
